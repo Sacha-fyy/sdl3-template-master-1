@@ -4,10 +4,8 @@
     See LICENSE.md in the project root for license information.
 */
 
-//TOM EST UN FDP
-
 #include "settings.h"
-// TOM
+// TOMYY
 
 #include "common/common.h"
 #include "game/game_config.h"
